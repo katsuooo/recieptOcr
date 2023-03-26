@@ -1,0 +1,22 @@
+
+
+pyocr.error.TesseractError: 
+
+(1, b'Error opening data file 
+C:\\Program Files\\Tesseract-OCR/tessdata/jpn.traineddata\r\n
+Please make sure the TESSDATA_PREFIX environment variable is set to 
+your "tessdata" directory.\r\n
+
+Failed loading language \'jpn\'\r\n
+Tesseract couldn\'t load any languages!\r\n
+Could not initialize tesseract.\r\n')
+
+
+
+
+
+
+pyocr.error.TesseractError: 
+(1, b'Error opening data file C:\\Program Files\\Tesseract-OCR/tessdata/jpn.traineddata\r\n
+Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory.\r\nFailed loading language \'jpn\'\r\nTesseract couldn\'t load any languages!\r\nCould not initialize tesseract.\r\n')
+PS D:\recieptOcr> 
